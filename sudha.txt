@@ -1,0 +1,10 @@
+<html>
+<body>
+<h1>This is my first project and  its title</h1>
+<h2>This is my second heading</h2>
+<p>
+  This is my paragraph
+</p>
+<img src="https://thumbs.dreamstime.com/b/bouquet-roses-17514774.jpg" alt "A scenario of bouquet-roses">
+</body>
+</html>
